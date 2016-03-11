@@ -2,6 +2,8 @@ mock-http-server
 ================================================
 A tiny test tool for Scala projects to test HTTP calls
 
+[![](https://jitpack.io/v/brokersquare/mock-http-server.svg)](https://jitpack.io/#brokersquare/mock-http-server)
+
 ---
 
 This repository contains both a Scala trait and its concrete class implementation useful to start an embedded Jetty server wrappable over functions.
